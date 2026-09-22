@@ -1,0 +1,37 @@
+[[Tandem]]
+arch = "aarch64"
+git-tree-sha1 = "f97b91e29f7381b90fff394d9fdfc1e83a00e332"
+mpi = "mpich"
+os = "macos"
+
+    [[Tandem.download]]
+    sha256 = "8a1e64541cf628b717be256b62b27c024f3b678e33a5b35be6925ec2549e7fae"
+    url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[Tandem]]
+arch = "x86_64"
+git-tree-sha1 = "267dcf9d4414429d96535ef6a961eb31679718f9"
+mpi = "mpich"
+os = "macos"
+
+    [[Tandem.download]]
+    sha256 = "5d3e6769f272792837a949489518e9f4120d96ae80c3324dfb3ede53be1ea4f6"
+    url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[Tandem]]
+arch = "x86_64"
+git-tree-sha1 = "f52504edb56f75880f7b4ab907ad3ed047fc9ccb"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[Tandem.download]]
+    sha256 = "19bc6d595ea7785a5a81744bb9e24f9d97edae7915e79e8e8c1da2ac9227119a"
+    url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-linux-gnu-mpi+mpich.tar.gz"
+[[Tandem]]
+arch = "x86_64"
+git-tree-sha1 = "2adca7022921a9c54bffe05baf29c77bf458302f"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[Tandem.download]]
+    sha256 = "d3bcc1a12e6784df9c77cb7f372841ad30062e3cc0f782c88e3609d164091c37"
+    url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
