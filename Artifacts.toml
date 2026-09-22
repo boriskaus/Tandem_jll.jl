@@ -1,37 +1,37 @@
 [[Tandem]]
 arch = "aarch64"
-git-tree-sha1 = "57f0d4f36ba02340af3b1816a214b317f23b19ee"
+git-tree-sha1 = "494626dbd8a3b96da04027a7361f401393220482"
 mpi = "mpich"
 os = "macos"
 
     [[Tandem.download]]
-    sha256 = "07345919bab341c46e8b5f19b4b3bbf8d1084e86498834de315562a02bf28433"
+    sha256 = "de25b3a76562a4a5e643665a2764c670d6f70c4110968918c3da5d5c1912b54a"
     url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[Tandem]]
 arch = "x86_64"
-git-tree-sha1 = "7e59b61a2dcd41d4de013f8ea521d0aac13a9810"
+git-tree-sha1 = "0dfb9dbbc4b878ca4782c6dbfa8654b96b145c96"
 mpi = "mpich"
 os = "macos"
 
     [[Tandem.download]]
-    sha256 = "f6c287dbb761a64ac515998442b18f19092b290e66f553e0a9301f83d41fc823"
+    sha256 = "f34841da5858c2b1866f12991635689310dbf0d7b4fab12ff4f57e1f0a5db2e9"
     url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[Tandem]]
 arch = "x86_64"
-git-tree-sha1 = "cc132b6f1143fa269415c88961c22d519ffb4a1f"
+git-tree-sha1 = "806b578734bd4457ab1948035b63bf85f357e3ba"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[Tandem.download]]
-    sha256 = "6ae6b5f1dcc5a2c9216936c195a6ecf23e095289c29ffeeaf4e52d88f9a6c5b8"
+    sha256 = "aebb51145ca08c90000c783da08b164f11f9904542c21f6c68781af69acf14b2"
     url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-linux-gnu-mpi+mpich.tar.gz"
 [[Tandem]]
 arch = "x86_64"
-git-tree-sha1 = "0309900fb0ad0eb1120354908393ebddbf5923f8"
+git-tree-sha1 = "48e82c2ebc83214e851edf8527fa9840c209579c"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[Tandem.download]]
-    sha256 = "3a99c2bb3cd9db13413fcad8e6f633639ff1a7d3d8288aaf3a97869b612289f6"
+    sha256 = "294f292a08c7e53b6213379bb34e7099c1588a785f4f76402228b417a751b1cf"
     url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
