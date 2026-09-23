@@ -1,37 +1,37 @@
-[[Tandem]]
+[[tandem]]
 arch = "aarch64"
 git-tree-sha1 = "494626dbd8a3b96da04027a7361f401393220482"
 mpi = "mpich"
 os = "macos"
 
-    [[Tandem.download]]
+    [[tandem.download]]
     sha256 = "de25b3a76562a4a5e643665a2764c670d6f70c4110968918c3da5d5c1912b54a"
-    url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
-[[Tandem]]
+    url = "https://github.com/boriskaus/tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[tandem]]
 arch = "x86_64"
 git-tree-sha1 = "0dfb9dbbc4b878ca4782c6dbfa8654b96b145c96"
 mpi = "mpich"
 os = "macos"
 
-    [[Tandem.download]]
+    [[tandem.download]]
     sha256 = "f34841da5858c2b1866f12991635689310dbf0d7b4fab12ff4f57e1f0a5db2e9"
-    url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
-[[Tandem]]
+    url = "https://github.com/boriskaus/tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[tandem]]
 arch = "x86_64"
 git-tree-sha1 = "806b578734bd4457ab1948035b63bf85f357e3ba"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
-    [[Tandem.download]]
+    [[tandem.download]]
     sha256 = "aebb51145ca08c90000c783da08b164f11f9904542c21f6c68781af69acf14b2"
-    url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-linux-gnu-mpi+mpich.tar.gz"
-[[Tandem]]
+    url = "https://github.com/boriskaus/tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-linux-gnu-mpi+mpich.tar.gz"
+[[tandem]]
 arch = "x86_64"
 git-tree-sha1 = "48e82c2ebc83214e851edf8527fa9840c209579c"
 mpi = "microsoftmpi"
 os = "windows"
 
-    [[Tandem.download]]
+    [[tandem.download]]
     sha256 = "294f292a08c7e53b6213379bb34e7099c1588a785f4f76402228b417a751b1cf"
-    url = "https://github.com/boriskaus/Tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/boriskaus/tandem_jll.jl/releases/download/Tandem-v1.2.0+0/Tandem.v1.2.0.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"

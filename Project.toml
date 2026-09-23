@@ -1,5 +1,5 @@
-name = "Tandem_jll"
-uuid = "992e12d1-d328-585c-a8a3-e9ddf32e7ce7"
+name = "tandem_jll"
+uuid = "cd890a36-30cf-59d4-8366-14c7b884a9e0"
 version = "1.2.0+0"
 
 [deps]

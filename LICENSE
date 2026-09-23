@@ -4,7 +4,7 @@ included below.  This license does not apply to the binary package wrapped by
 this Julia package and automatically downloaded by the Julia package manager
 upon installing this wrapper package.  The binary package's license is shipped
 alongside the binary itself and can be found within the
-`share/licenses/Tandem` directory within its prefix.
+`share/licenses/tandem` directory within its prefix.
 
 MIT License
 
